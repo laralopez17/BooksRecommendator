@@ -21,14 +21,14 @@ $ cd BooksRecommendator
 
 ### Ejecuta la aplicación: ⏯️
 <pre>
-python book_recommendation_gui.py
+$ python book_recommendation_gui.py
 </pre>
 La interfaz gráfica se abrirá, y podrás ingresar el título del libro para recibir recomendaciones.
 
 ## Dependencias 🧰
 Asegúrate de tener las siguientes bibliotecas instaladas:
 <pre>
-pip install pandas numpy scikit-learn
+$ pip install pandas numpy scikit-learn
 </pre>
 ## Datos 😶‍🌫️
 El proyecto utiliza archivos CSV (books.csv y ratings.csv) como fuente de datos. Asegúrate de que estos archivos estén presentes y contengan la información necesaria.
