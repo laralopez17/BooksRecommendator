@@ -40,6 +40,6 @@ En el repositorio, encontraras dos archivos de cada uno - books.csv y ratings.cs
 
 ¡Hola! Soy Lara, una estudiante de ingeniería informática 🧑‍🎓
 
-- 🌐 Encuéntrame en [LinkedIn]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/laralopez17/)
+- 🌐 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/laralopez17/)
 - 📧 Contáctame por correo electrónico: laralopez219@gmail.com
 
