@@ -15,8 +15,8 @@ recomendaciones basadas en la correlación entre libros. Utiliza la técnica de 
 ## Instalación y Uso 🧐
 ### Clona el repositorio:
 
-`git clone https://github.com/laralopez17/BooksRecommendator.git`
-`cd BooksRecommendator`
+$ git clone https://github.com/laralopez17/BooksRecommendator.git
+$ cd BooksRecommendator
 
 ### Ejecuta la aplicación: ⏯️
 
