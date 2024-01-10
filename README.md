@@ -33,7 +33,7 @@ Asegúrate de tener las siguientes bibliotecas instaladas:
 El proyecto utiliza archivos CSV (books.csv y ratings.csv) como fuente de datos. Asegúrate de que estos archivos estén presentes y contengan la información necesaria.
 En el repositorio, encontraras dos archivos de cada uno - books.csv y ratings.csv -, uno corresponde a una base de datos más extensa que el otro para que puedas entrenar la red!
 
-##Contribución 
+## Contribución 
 ¡Las contribuciones son bienvenidas! Si encuentras errores, tienes ideas para mejorar el código o quieres agregar nuevas características, no dudes en abrir problemas o enviar solicitudes de extracción.
 
 ## Acerca de Mí
